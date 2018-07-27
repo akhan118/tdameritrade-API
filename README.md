@@ -1,7 +1,7 @@
 # kiki
 A Python Client For TdAmeritrade API
 
-```bash
+```python
 
 token=''
 apikey ='xxxxxx@AMER.OAUTHAP'
