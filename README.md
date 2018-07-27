@@ -1,6 +1,10 @@
 # kiki
 A Python Client For TdAmeritrade API
 
+Documentation 
+
+http://inside.probability.ninja/index.php/2018/07/27/kiki-a-python-client-for-tdameritrade-api/
+
 ```python
 
 token=''
