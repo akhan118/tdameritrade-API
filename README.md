@@ -1,4 +1,4 @@
-# kiki TD Ameritrade Api
+# kiki - TD Ameritrade API
 
 
 A Python Client For TdAmeritrade API
