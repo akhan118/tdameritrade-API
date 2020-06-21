@@ -4,7 +4,7 @@
 A Python Client For TdAmeritrade API
 
 
-[Documentation](http://inside.probability.ninja/kiki-a-python-client-for-tdameritrade-api/) version 1.0.0
+ version 1.0.0
 
 
 ```python
